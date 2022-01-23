@@ -1,0 +1,23 @@
+{
+  "name": "ITIS-6177-Week-01",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000I\u0000T\u0000I\u0000S\u0000-\u00006\u00001\u00007\u00007\u0000-\u0000W\u0000e\u0000e\u0000k\u0000-\u00000\u00001\u0000\r\u0000 \u0000",
+  "main": "week1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthi3101/ITIS-6177-Week-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepthi3101/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/deepthi3101/ITIS-6177-Week-01#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
